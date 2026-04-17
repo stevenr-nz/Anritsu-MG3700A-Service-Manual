@@ -1,3 +1,4 @@
+#System Overview
 The MG3700A is a modular vector signal generator integrating baseband arbitrary waveform generation, digital IF processing, RF upconversion, and output conditioning within a single mainframe. It supports 250 kHz to 3 GHz standard, with options extending to 6 GHz or 8 GHz depending on RF module configuration.
 Below are two block diagrams from Anritsu:
 
