@@ -1,6 +1,6 @@
+#Introduction
 The Anritsu MG3700A is a high-performance vector signal generator designed for advanced wireless communication testing. Engineered with precision and flexibility in mind, it delivers exceptional signal quality, wide bandwidth, and versatile waveform generation capabilities, making it ideal for R&D, manufacturing, and compliance testing.
-
-Key Features & Capabilities:
+##Key Features & Capabilities:
 Wide Frequency Coverage: Operates from 250 kHz to 3GHz (Optional 6 GHz), supporting a broad range of wireless standards including LTE, WLAN, WiMAX, and more.
 High-Speed Arbitrary Waveform Generator: Built-in baseband generator with a 160 MHz sampling rate and 512 Mbit memory per channel for complex waveform creation.
 Dual Arbitrary Waveform Memories: Two independent waveform memories allow selection of individual patterns or simultaneous combination for multi-signal output.
