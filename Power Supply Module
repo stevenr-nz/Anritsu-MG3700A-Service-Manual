@@ -1,0 +1,2 @@
+##Power Supply Module
+1.	A multi-rail internal switching power supply provides regulated rails including +5 V, ±12 V, and RF bias voltages. Field failures commonly relate to fuses or local regulators on the 5 V digital rail feeding the CPU and digital IF boards
